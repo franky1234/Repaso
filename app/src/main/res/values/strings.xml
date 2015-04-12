@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RepasoPablo</string>
+    <string name="hello_world">Hello</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">Result</string>
+    <string name="title_activity_list_json">Lista de JSON</string>
+    <string name="refresh">Refresh</string>
+</resources>
